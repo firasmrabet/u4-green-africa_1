@@ -7,9 +7,7 @@ import { useLoading } from '../contexts/LoadingContext';
 
 /**
  * Page de connexion (Login)
- * 
- * 
- *Design: Fond avec circuit + plante verte (Eco-Tech)
+ * Design: Fond avec circuit + plante verte (Eco-Tech)
  */
 export default function Auth() {
   const navigate = useNavigate();
